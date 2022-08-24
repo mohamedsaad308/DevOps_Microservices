@@ -1,4 +1,10 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+# Template:
+
+[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](LINK)
+
+# Example:
+
+[![mohamedsaad308](https://circleci.com/gh/mohamedsaad308/DevOps_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/mohamedsaad308/DevOps_Microservices)
 
 ## Project Overview
 
